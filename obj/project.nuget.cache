@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xFs8POnF3Pqv2KR/V/93WIerC39mIhB4IrenQl2ROpg0WujaAG5ambSMMsHVd88++NVOJd7cKWrYmS4X3XwYQA==",
+  "success": true,
+  "projectFilePath": "/home/ag/Documentos/Projects/C#/content-generator/content-generator.csproj",
+  "expectedPackageFiles": [
+    "/home/ag/.nuget/packages/bogus/34.0.2/bogus.34.0.2.nupkg.sha512",
+    "/home/ag/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
